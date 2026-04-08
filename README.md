@@ -33,6 +33,7 @@
 🐧 Linux user (Mint | Arch | Debian | Kali)
 🎨 Minimalist UI/UX enjoyer
 ```
+
 🌐 Connect With Me
 
 <p align="center" style="margin-top: 20px;">
@@ -52,3 +53,5 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36" />
 </a>
 </p>
+
+---
