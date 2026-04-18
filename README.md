@@ -1,24 +1,12 @@
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Prince!+🐧;BSIT+Student;Web+%26+Mobile+Developer;Linux+Enthusiast" />
 </p>
 
-
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-Jean&theme=tokyonight" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Jean&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-Jean&theme=tokyonight&width=1000" width="100%" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Jean&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&width=1000" width="100%" />
 </p>
-
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,java,python,html,css,linux,arch,kali,debian,figma,ps,vscode,git,github" />
@@ -33,8 +21,7 @@
 🐧 Linux user (Mint | Arch | Debian | Kali)
 🎨 Minimalist UI/UX enjoyer
 ```
-
-🌐 Connect With Me
+🔌 Connect With Me:
 
 <p align="center" style="margin-top: 20px;">
 <a href="mailto:jeanmendoza050707@gmail.com" style="margin: 0 12px;">
@@ -53,5 +40,3 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36" />
 </a>
 </p>
-
----
