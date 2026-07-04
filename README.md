@@ -16,14 +16,14 @@
 
 ---
 
-### 💻 About Me
+### About Me
 ```txt
 🎓 BSIT Student - Universidad de Dagupan
 🛠️ Learning modern programming stacks
 🐧 Linux user (Mint | Arch | Debian | Kali)
 🎨 Minimalist UI/UX enjoyer
 ```
-🔌 Connect With Me:
+### Connect With Me:
 
 <p align="center" style="margin-top: 20px;">
 <a href="mailto:jeanmendoza050707@gmail.com" style="margin: 0 12px;">
