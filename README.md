@@ -18,10 +18,10 @@
 
 ### About Me
 ```txt
-🎓 BSIT Student - Universidad de Dagupan
-🛠️ Learning modern programming stacks
-🐧 Linux user (Mint | Arch | Debian | Kali)
-🎨 Minimalist UI/UX enjoyer
+ BSIT Student - Universidad de Dagupan
+ Learning modern programming stacks
+ Linux user (Mint | Arch | Debian | Kali)
+ Minimalist UI/UX enjoyer
 ```
 ### Connect With Me:
 
