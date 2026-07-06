@@ -2,11 +2,11 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Prince!+;BSIT+Student;Web+%26+Mobile+Developer;Linux+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Prince!+;BSIT+Student;Web+%26+Mobthereeveloper;Linux+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/B8lZ9ce.gif" width="100%" alt="Landscape GIF" style="border-radius: 10px;" />
+  <img src="cat.gif" width="100%" alt="GIF" style="border-radius: 10px;" />
 </p>
 
 
