@@ -13,8 +13,13 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Jean&theme=github-dark&bg_color=0d0d0d&color=ffffff&line=ffffff&point=ffffff&hide_border=true" width="100%" style="border-radius: 10px;" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Jean&theme=github-dark&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" 
+    width="100%" 
+    style="border-radius: 10px;"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Jean&theme=dark-minimalist&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="100%" />
