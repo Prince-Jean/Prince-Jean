@@ -14,11 +14,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Jean&theme=github-dark&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Jean&theme=github-dark&bg_color=00000000&color=ff69b4&line=ff69b4&point=ff69b4&hide_border=true" 
     width="100%" 
     style="border-radius: 10px;"
   />
 </p>
+
 
 
 <p align="center">
