@@ -23,8 +23,13 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Jean&theme=dark-minimalist&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="100%" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Jean&theme=dark-minimalist&hide_border=false&border=FF69B4&ring=FF69B4&fire=FF0000&currStreakLabel=FF69B4&currStreakNum=FF69B4&sideLabels=FF69B4&sideNums=FF69B4&background=00000000" 
+    width="100%" 
+    style="border-radius: 10px;"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,python,linux,figma,git,github&theme=dark" />
