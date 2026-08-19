@@ -33,7 +33,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,python,linux,figma,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,html,css,linux,figma,git,github&theme=dark" alt="My Skills" />
 </p>
 
 
